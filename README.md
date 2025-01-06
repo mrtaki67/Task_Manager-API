@@ -10,8 +10,7 @@ Este repositório contém a API de um **Gerenciador de Tarefas**, desenvolvida c
 
 ## Tecnologias Utilizadas
 
-- **Back-end**:  
-  - **NestJS**: Framework para construção de APIs com Node.js.
-  - **Prisma**: ORM para manipulação do banco de dados MySQL.
-  - **MySQL**: Banco de dados relacional utilizado para armazenar informações de usuários e tarefas.
-  - **JWT (JSON Web Token)**: Para autenticação de usuários.
+- **NestJS**: Framework para construção de APIs com Node.js.
+- **Prisma**: ORM para manipulação do banco de dados MySQL.
+- **MySQL**: Banco de dados relacional utilizado para armazenar informações de usuários e tarefas.
+- **JWT (JSON Web Token)**: Para autenticação de usuários.
